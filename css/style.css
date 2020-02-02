@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Poiret One', cursive;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+}
+
+nav{
+    position: sticky;
+    top: 0;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0!important;
+}
+
+.media {
+    background-image: url("../images/hypnotize.png");
+}
+
+.media img {
+    border-radius: 50%;
+    border: #f0f0f0 solid 5px;
+    overflow: hidden;
+}
+
+.jumbotron {
+    background: transparent;
+}
