@@ -73,6 +73,11 @@ h4 {
   background-color: #EBE2D7;
 }
 
+.btn-primary:hover {
+  background-color: #EAC698;
+  border-color: #EAC698;
+}
+
 .img-fluid {
   width: 18%;
 }
